@@ -27,3 +27,10 @@ Biggest change: **the all-day exhaustion and crash pattern did not exist before 
 **Dhaka:** one planned trip after exams could cover hands-on ERP with a clinical psychologist, a sleep study, and anorectal manometry with pelvic floor biofeedback. Ask Prof. Huq for specific names. A follow-up with him in Chittagong should not wait for that.
 
 **Still missing:** ultrasound report; post-void residual measured right after urinating.
+
+## Later on 21 Oct: leg shaking, ultrasound, diet, eyes
+
+- **Leg shaking:** restless when sitting, shakes leg. With a foot on a thin bar the leg shakes rhythmically until the foot is put down. On two serotonergic medicines, with heavy sweating, restlessness, sleep-onset jerks and first-day bowel spasms, this possible clonus should be checked by a doctor (reflexes and clonus) this week. Open: did it start or worsen after Sep 2026? Urge to move legs at night (restless legs)?
+- **Ultrasound:** done before the uroflowmetry; reported normal, post-void residual within limits (after repeated pushing). Report not at hand. The "not finished" feeling is mostly sensation, not retained urine.
+- **Diet:** breakfast 2 to 3 atta roti with palm molasses, banana or egg (eggs rare); lunch and dinner white rice, fish curry (chicken; beef 2 to 3 times a month), shak, masoor dal; snack Oreo biscuits, sometimes milk. Not a root cause. Gaps: vitamin D, fruit, sugary snacks. Easy win: an egg a day, fruit instead of biscuits.
+- **Eyes:** myopia since class 8, about -4.5 right and -4 left, glasses daily. Yearly eye check; same-day care for sudden flashes, many new floaters or a curtain over vision.
