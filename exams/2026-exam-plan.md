@@ -1,180 +1,215 @@
-# Exam plan: 2nd-sem retakes + 3rd-sem finals (Oct to Nov 2026)
+# Exam plan: 3rd-semester finals (Nov 2026), with retake windows protected
 
-Written 21 Oct 2026. This is a **draft**: the priorities and topic lists get fixed once Rimon answers the questions at the bottom and we have past papers.
+Version 2, 21 Oct 2026. Built on Rimon's answers:
+- Retakes to sit: **EEE-221 theory (Thu 29 Oct), EEE-222 lab (Sun 22 Nov), MAT-235 (Thu 26 Nov).** Rimon handles these; this plan only protects their time.
+- **Failing a special retake means losing the seat at CU.**
+- Every 3rd-sem course is currently at **level 1** ("heard of it").
+- Very few class tests were taken; expect **about 0** in-course marks.
+- The 3rd-sem routine is **not published** yet. Finals are expected from 5 Nov.
 
-The goal of this plan is **to pass as many papers as possible without triggering the crash cycle.** It is not a plan for good grades, and it is not a plan to fix your whole life during exams. Those come after, with the health work happening in parallel.
-
----
-
-## 1. Every exam, in order
-
-| # | Date | Day | Paper | Type | Days from 21 Oct |
-|---|------|-----|-------|------|------------------|
-| – | 15 Oct | Thu | ENG-271 (retake) | Theory | already happened |
-| 1 | **25 Oct** | Sun | **CSE-211 (retake)** | Theory | **4** |
-| 2 | **29 Oct** | Thu | **EEE-221 (retake)** | Theory | 8 |
-| 3 | 4 Nov | Wed | STA-251 (retake) | Theory | 14 |
-| 4 | from 5 Nov | – | **3rd-sem finals begin** (routine not known yet) | – | 15 |
-| 5 | 9 Nov | Mon | CSE-214 (retake) | Lab | 19 |
-| 6 | 15 Nov | Sun | PHY-241 (retake) | Theory | 25 |
-| 7 | 18 Nov | Wed | CSE-212 (retake) | Lab | 28 |
-| 8 | 22 Nov | Sun | EEE-221 (retake) | Lab | 32 |
-| 9 | 26 Nov | Thu | MAT-235 (retake) | Theory | 36 |
-
-3rd-semester papers (dates unknown until the routine is out):
-
-| Course | Title | Credits | Final weight |
-|--------|-------|---------|--------------|
-| CSE 311 | Data Structures | 3 | 70% final, 20% CT/assignments, 10% attendance |
-| CSE 321 | Digital Logic Design | 3 | same |
-| MAT 331 | Linear Algebra and Optimization | **4** | same |
-| STA 351 | Probability Models and Inference | 3 | same |
-| ECO 381 | Economics | 3 | same |
-| CSE 312 | Data Structures Lab | 2 | 40% viva/quiz, 40% continuous, 10% report, 10% attendance |
-| CSE 314 | Programming Problem Solving Lab | 2 | same as 312 |
-| CSE 322 | DLD Lab | 1 | same (**final already missed**, see section 3) |
-
-That is up to **16 papers in about 5 weeks**. Be honest with yourself about what that means: with the energy you have right now, you will not prepare every paper well. The plan below decides in advance where effort goes, so that panic does not decide for you.
-
-The 3rd-sem routine will almost certainly fall on the gaps between the retakes (or clash with them). Check for clashes as soon as the routine is out; a clash is the department's problem to solve, not yours, but you must tell them early.
+The goal: **pass as many 3rd-sem papers as possible without risking a retake and without triggering the crash cycle.**
 
 ---
 
-## 2. Triage: what matters most
+## 1. The honest numbers
 
-Ranked by **how bad it is to fail** multiplied by **how many marks one hour of study buys you**.
+Theory papers are 10% attendance + 20% class tests/assignments + 70% final. Assuming CU's usual pass mark of 40% overall (confirm this):
 
-**Tier 1, protect these.**
-- **All 2nd-sem retakes.** These are a special second chance, given because of the curriculum change. Failing a special exam may have no easy third chance, so treat them as the highest-stakes papers. (We need to confirm the rule; see the questions below.)
-- **MAT 331** (4 credits, the biggest single course). Most of it is mechanical procedure: row reduction, determinants, eigenvalues. Procedures can be drilled even when the brain is foggy.
-- **CSE 311 Data Structures.** The core of the whole degree, and most exam questions are "trace this algorithm on this example" (sort this array, insert into this BST, run Prim's on this graph). Tracing is very learnable.
+| Your in-course marks | What you need in the 70-mark final |
+|---|---|
+| 0 CT, ~3/10 attendance | **~37/70, about 53% of the paper** |
+| 5 CT/assignment marks, ~3 attendance | ~32/70, about 46% |
+| 10 CT/assignment marks, ~3 attendance | ~27/70, about 39% |
 
-**Tier 2, pass with minimum effort.**
-- **ECO 381.** No maths, mostly definitions, diagrams and explanations. The best marks-per-hour of any paper. Prepare it in the last 2 days before its exam, not earlier.
-- **CSE 321 DLD.** Mechanical too (K-maps, conversions, adders, flip-flops), and it overlaps with the DLD lab.
-- **Labs (CSE 312, 314, and the retake labs).** Continuous marks already exist; the viva/quiz is 40%. A handful of practised programs plus standard viva answers usually passes.
+So **any in-course mark you can still recover is worth a lot.** Ask each course teacher whether a missed CT or an assignment can still be submitted. Five marks now lowers the bar in the final noticeably.
 
-**Tier 3, aim for a bare pass, accept the risk.**
-- **STA 351.** The hardest paper on the list (MGFs, convergence, Chernoff bounds, randomized algorithms). Its basics overlap with the STA-251 retake on 4 Nov, so preparing STA-251 doubles as STA 351 groundwork. If something has to be sacrificed, sacrifice this one, not a retake.
+Starting from level 1 everywhere, with about two weeks before finals start (one of which belongs to EEE-221), **passing all five theory papers is unlikely. Passing three or four is realistic if you follow the pacing rules and use past papers.** University finals repeat question types heavily, and that repetition is what makes this possible.
 
 ---
 
-## 3. Department actions this week (not studying, but higher leverage than studying)
+## 2. The one rule that overrides everything
 
-Send **one message** today or tomorrow to your CR and your academic advisor (or the exam committee chair), and ask:
+**A retake always beats a 3rd-sem paper.** Failing a 3rd-sem paper costs a later retake. Failing a special retake costs your place at the university. So these windows are blocked for retakes, whatever the 3rd-sem routine says:
 
-1. **DLD lab final (CSE 322).** You missed it because of an acute reaction on the first morning of Prodep (bowel spasms and rectal bleeding). Ask for a make-up, and ask your psychiatrist for a short note confirming the medicine start date and the reaction. You have documented ongoing psychiatric treatment; use it.
-2. **What happens if a special retake is failed?** Is there another chance, or does it block promotion or the degree?
-3. **The 3rd-sem final routine**, and who to tell if it clashes with a retake date.
-4. **Past final questions** for every course on this list (last 3 to 5 years). Ask seniors and the CR too; the photocopy shops near campus usually have question banks.
+| Window | Belongs to |
+|---|---|
+| 21 to 29 Oct | EEE-221 theory |
+| about 18 to 22 Nov (2 to 3 days) | EEE-222 lab |
+| about 21 to 26 Nov (4 to 5 days) | MAT-235 |
 
-One message with four questions. Do not make it a big task.
+If a 3rd-sem paper lands inside one of these windows, it gets only floor-day effort (one short block on the day before).
 
----
-
-## 4. How to study with low, unreliable energy
-
-Your pattern is: one "full" day, then 3 to 7 days of collapse. **That crash is the single biggest threat to these exams**, bigger than any subject. So the plan caps good days as strictly as it protects bad days.
-
-**The three day-types**
-
-| Day type | How you know | What you do |
-|----------|--------------|-------------|
-| **Floor day** | Exhausted, foggy, crashed | **1 block of 15 min.** Read one past question and its answer, lying down is fine. This counts as a success. |
-| **Normal day** | Tired but functional | **3 blocks of 25 min**, at least 10 min lying down between blocks. Finish by early evening. |
-| **Good day** | You feel energetic | **Maximum 5 blocks. Stop even if you feel great.** This is the rule that stops the crash. |
-| **Exam eve** | Day before any exam | 2 light blocks of review, early night. No new topics. |
-
-**Inside one block**
-1. Phone in another room (or switched off) for the block only. You get it back after.
-2. Take **one past-paper question**. Read the solution (book, notes, YouTube, or ask me).
-3. Close the solution and **write the answer yourself, by hand**, because the exam is handwritten.
-4. Check it. Mark it ✓, ~ (half), or ✗.
-5. **Stuck for more than 5 minutes? Mark it ✗ and move to the next question.** Never sit inside a stuck point; that is where the 10-to-20-minute overwhelm comes from.
-
-**Fitting around the bathroom**
-Do not plan blocks by clock time. Plan them as "after the bathroom, rest 15 minutes, then a block." A bathroom session that runs long does not "ruin the day"; it just moves the next block.
-
-**One exam at a time**
-All study days between two exams go to the **next** exam only (a lab can share days with its theory course). No parallel routine across 16 courses.
+**Ask the department now:** what happens if you are too ill to sit a special retake on the day? Is there a medical route? Get the answer in writing (a message is fine). With fainting episodes and multi-hour bathroom sessions on record, this is not a theoretical question.
 
 ---
 
-## 5. The next 15 days (retake stretch)
+## 3. Department actions (do these this week, in one message)
 
-| Days | Target | What to do |
-|------|--------|------------|
-| Wed 21 Oct | CSE-211 | Department message (section 3). Get CSE-211 past questions. List the question types and tick any that repeat 2+ times. |
-| Thu 22 to Fri 23 | CSE-211 | Learn the repeated questions. Pick **enough to answer the required number in each section, plus one spare**, and skip the rest. |
-| Sat 24 | CSE-211 | Exam eve: rewrite 2 or 3 key answers from memory. Pack bag. Early night. |
-| **Sun 25** | **CSE-211 exam** | See exam-day checklist. After the exam: rest, no study. |
-| Mon 26 to Wed 28 | EEE-221 theory | Same 3-step pattern: past questions, repeated types, write them. Wed is exam eve. |
-| **Thu 29** | **EEE-221 exam** | |
-| Fri 30 Oct to Tue 3 Nov | STA-251 | 5 study days. Focus on probability basics and standard distributions, which also feed STA 351. |
-| **Wed 4 Nov** | **STA-251 exam** | |
-| From 5 Nov | 3rd sem + remaining retakes | Rebuilt once the routine is known. |
+1. **DLD lab final (CSE 322):** request a make-up. You missed it because of an acute reaction on the first morning of Prodep. Ask your psychiatrist for a short note confirming the start date and the reaction.
+2. **Medical route for special retakes** (section 2).
+3. **Missed CTs/assignments:** can any still be submitted, per course?
+4. **Pass mark and promotion rule** for 3rd sem: confirm 40%, and ask whether failing 3rd-sem papers affects promotion.
+5. **The 3rd-sem routine** as soon as it is out, and who to tell about clashes with retake dates.
+6. **Past final questions** (last 3 to 5 years) for CSE 311, CSE 321, MAT 331, STA 351, ECO 381 and the labs, from seniors, the CR, or the photocopy shops near campus.
 
 ---
 
-## 6. 3rd-semester high-yield topics (provisional, to be checked against past papers)
+## 4. Pacing (unchanged, and the most important part)
 
-These are my best guesses from the syllabus. Past papers overrule them.
+| Day type | What you do |
+|---|---|
+| **Floor day** (crashed, foggy) | 1 block of 15 min. One question and its answer. Counts as a success. |
+| **Normal day** | 3 blocks of 25 min, 10+ min lying down between. Done by early evening. |
+| **Good day** | **Max 5 blocks. Stop even if you feel great.** This is what prevents the 3-to-7-day crash. |
+| **Exam eve** | 2 light review blocks. No new topics. Early night. |
 
-**CSE 311 Data Structures**
-- Learn: insertion/merge/quick sort traced on an array, binary search, stack and queue operations (infix to postfix, postfix evaluation), linked-list insert/delete, BST insert/delete/traversals, building a heap and heapsort, Prim's and Kruskal's traced on a graph, BFS/DFS traced on a graph.
-- Probably skip: interval trees, dynamic order statistics. Disjoint sets only if past papers show it.
+**Inside a block:** phone in another room. One past question. Read the solution. Close it. **Write it yourself by hand.** Check it. **Stuck for 5 minutes: mark it and move on.**
 
-**CSE 321 Digital Logic Design**
-- Learn: number system conversions, 2's complement, BCD and Gray code, Boolean simplification, **K-maps (4-variable with don't-cares)**, half/full adder, implementing a function with a decoder or a MUX, flip-flops (SR, JK, D, T tables), counters.
-- Lower priority: Quine-McCluskey (long but mechanical; learn if it repeats), FSM design, timing/metastability theory, ROM/PLA, Verilog.
+**Around the bathroom:** plan blocks as "after the bathroom, rest 15 minutes, then a block", never by clock time.
 
-**MAT 331 Linear Algebra and Optimization**
-- Learn: Gaussian elimination and echelon form, solving systems, inverse of a matrix, determinants and Cramer's rule, linear independence, rank and nullity, **eigenvalues, eigenvectors and diagonalization** (2×2 and 3×3), Gram-Schmidt, least squares, gradient and Hessian test for extrema, Lagrange multipliers.
-- Probably skip: SVD, KKT conditions, convex-optimization theory, geometric programming.
-- Your weak maths basics matter less here than you fear: most of this is careful arithmetic in a fixed order.
-
-**STA 351 Probability Models and Inference**
-- Learn: joint and marginal distributions (discrete first), MGFs of standard distributions, Poisson process and exponential distribution problems, **Markov chain steady state** (it is just solving linear equations, the same skill as MAT 331), Bayes' rule and the MAP rule.
-- Skip: convergence of random variables, Chernoff bounds, balls-and-bins, skip lists, Monte-Carlo/Las-Vegas algorithms, unless past papers show easy repeated questions.
-
-**ECO 381 Economics**
-- Learn about 10 to 12 standard answers with diagrams: demand and supply, elasticity, opportunity/sunk/marginal cost, perfect competition vs monopoly vs oligopoly, externalities, public goods, GDP, inflation, unemployment, fiscal vs monetary policy, tariffs and protection.
-- Do this in the last 2 days before the ECO exam.
-
-**Labs (CSE 312, CSE 314)**
-- CSE 312: be able to write from scratch: stack, queue, singly linked list insert/delete, BST insert/search/traversal, BFS/DFS on an adjacency list, one sort (merge or quick). Overlaps fully with CSE 311.
-- CSE 314: C pointers and declarations, basic STL (vector, map, sort, set), GCD, sieve of Eratosthenes, fast modular exponentiation, cross product for geometry.
+**One exam at a time:** gap days between papers go to the next paper only.
 
 ---
 
-## 7. Exam-day checklist
+## 5. Block budget
 
-- **Night before:** admit card, ID, pens, calculator, water, a snack, cash for a bus/CNG in case the shuttle is missed. Bag packed and at the door.
-- **Wake-up time:** work backwards from the exam start, allowing for your *worst* recent bathroom time plus the commute, not your average. It is better to sit at the hall early than to arrive late and panicked.
-- **Eat** something before you leave.
-- **Dozing in the exam hall:** you have dozed in exams even after a full night's sleep. **Before 25 Oct, ask your psychiatrist** whether anything can be done about daytime sleepiness during exam weeks. Do not change your medicine yourself.
-- **Tea/coffee:** go easy. Fluvoxamine (Voxamin) slows how fast the body clears caffeine by a large amount, so a cup can last much longer than usual and wreck that night's sleep. A small amount in the morning only, if at all.
-- **In the hall:** answer the questions you know first. If a question stalls you for 5 minutes, move on and come back.
+Realistically, between 30 Oct and the end of Nov you have maybe **45 to 55 blocks** for the 3rd sem once crash days and retake windows are taken out. This is how they are split. Each course's "pass core" below is sized to fit.
 
----
-
-## 8. Tracking
-
-Each evening, one line (just reply in the thread and it gets logged here in the repo):
-
-`date | day type (floor/normal/good) | blocks done | sleep hours | longest bathroom time | one note`
-
-Example: `22 Oct | normal | 3 | 6 | 50 min | CSE-211 Q3 and Q5 done, Q4 stuck`
-
-This is how we will see the real pattern of energy and bathroom time against study, which also feeds the diagnosis work.
+| Course | Credits | Blocks | Priority | Why |
+|---|---|---|---|---|
+| MAT 331 Linear Algebra & Optimization | 4 | **12** | 1 | Biggest course. Mostly fixed procedures you can drill. |
+| CSE 311 Data Structures | 3 | **10** | 1 | Core of the degree. Section B is almost all hand-tracing. |
+| CSE 321 Digital Logic Design | 3 | **9** | 2 | Mechanical (K-maps, adders, flip-flops). |
+| ECO 381 Economics | 3 | **5** | 2 | No maths. Best marks per block. Last 2 days before its exam only. |
+| STA 351 Probability Models | 3 | **6** | 3 | Hardest paper. Aim for a bare pass. Sacrifice first if needed. |
+| CSE 312 DS Lab | 2 | 4 | 2 | Same content as CSE 311, written as code. |
+| CSE 314 Problem Solving Lab | 2 | 3 | 2 | A handful of standard programs. |
+| CSE 322 DLD Lab | 1 | 2 | 3 | Only if the make-up is granted. |
 
 ---
 
-## 9. Questions for Rimon (needed to finalise this plan)
+## 6. Pass core for each course (from the syllabus, to be checked against past papers)
 
-1. What are the **names** of CSE-211, EEE-221, STA-251, CSE-214, PHY-241, CSE-212 and MAT-235? And did you **sit ENG-271** on 15 Oct?
-2. For **every course** on this page, a number from 0 to 3: 0 = nothing, 1 = heard of it, 2 = can do easy questions, 3 = comfortable.
-3. Do you have, or can you get, **past final questions** for these courses?
-4. Do you know the **3rd-sem final routine**, or roughly which paper is first?
-5. Do you know **what happens if a special retake is failed**?
-6. Did you sit any **class tests or labs** this semester (so we know roughly what in-course marks you have)?
+Block counts are in brackets. Past papers overrule this list: if a skipped topic repeats every year, swap it in for a weaker one.
+
+### MAT 331 Linear Algebra and Optimization (12 blocks)
+**Section A**
+- Gaussian elimination, row echelon form, solving a system (2)
+- Checking linear independence (1)
+- Inverse of a matrix by row reduction; determinants and Cramer's rule (1.5)
+- Null space, column space, rank and nullity, basis (1.5)
+- **Eigenvalues, eigenvectors, diagonalization**, 2×2 and 3×3 (2)
+- Gram-Schmidt (0.5)
+
+**Section B**
+- Refresh partial derivatives (0.5)
+- Critical points: gradient = 0, Hessian / second-derivative test (1)
+- Lagrange multipliers (1)
+- Least squares via the normal equations AᵀAx = Aᵀb (1)
+
+**Skip:** SVD, spectral theorem proofs, convex-set theory, geometric programming, KKT.
+Your weak maths basics matter less than you fear here. Most of this is careful arithmetic in a fixed order.
+
+### CSE 311 Data Structures (10 blocks)
+**Section A**
+- Insertion sort, merge sort, quick sort: trace on a given array, plus their time complexity (2.5)
+- Binary search (0.5)
+- Stack and queue operations, circular queue, **infix to postfix and postfix evaluation** (2)
+- Singly and doubly linked list insert/delete, drawn as box diagrams (1)
+
+**Section B**
+- **BST insert, delete, inorder/preorder/postorder** (1.5)
+- Build-max-heap, heapify, heapsort traced on an array (1)
+- BFS and DFS order on a given graph (0.5)
+- **Prim's and Kruskal's** traced on a given graph (1)
+
+**Skip:** interval trees, dynamic order statistics. Disjoint sets only if past papers show it.
+
+### CSE 321 Digital Logic Design (9 blocks)
+**Section A**
+- Number system conversions, signed numbers, 2's complement, BCD, Gray code (1.5)
+- Boolean algebra laws, De Morgan, simplification (1)
+- **K-maps, 3 and 4 variables, SOP and POS, with don't-cares** (2)
+- Half adder, full adder, ripple-carry adder, 2's complement adder/subtractor (1)
+- Decoders and encoders; implementing a function with a decoder (0.5)
+
+**Section B**
+- Multiplexers; implementing a function with a MUX (1)
+- SR, D, JK and T flip-flops: characteristic and excitation tables (1)
+- Synchronous counter design (1)
+- Definitions only: propagation delay, Mealy vs Moore, clock skew, metastability (part of a block)
+
+**Skip:** Quine-McCluskey (unless it repeats), full FSM design, ROM/PLA, Verilog.
+
+### STA 351 Probability Models and Inference (6 blocks, bare-pass target)
+**Section A**
+- Joint and marginal distributions, discrete tables first (1.5)
+- MGFs: definition, for binomial/Poisson/exponential, using them for mean and variance (1)
+- Poisson process and the exponential distribution, the memoryless property (1)
+- **Markov chains:** transition matrix, n-step probabilities, steady state (1.5). This is solving linear equations, the same skill as MAT 331.
+
+**Section B**
+- Bayes' rule, posterior, MAP rule (1)
+- Short-note definitions for easy marks: Monte-Carlo vs Las-Vegas algorithm, Bayesian vs classical inference (part of a block)
+
+**Skip:** convergence of random variables, Chernoff bounds, balls-and-bins, hashing analysis, skip lists.
+
+### ECO 381 Economics (5 blocks, last 2 days before its exam)
+Prepare about 12 model answers, each with a diagram and, where possible, a Bangladesh example:
+- Demand and supply, equilibrium; price elasticity (types and formula)
+- Opportunity, sunk and marginal cost
+- Perfect competition vs monopoly vs oligopoly (as one comparison table)
+- Externalities and public goods; bounded rationality and nudges
+- GDP; inflation and CPI; types of unemployment
+- Fiscal vs monetary policy; central bank tools; exchange rates
+- Tariffs and arguments for protection
+
+### Labs
+- **CSE 312 (4 blocks):** after CSE 311 theory, write from scratch: stack, queue, singly linked list insert/delete, BST insert/search/traversal, BFS/DFS on an adjacency list, merge sort or quick sort.
+- **CSE 314 (3 blocks):** reading C declarations and pointers; STL basics (vector, sort, map, set, pair); GCD, sieve of Eratosthenes, fast modular exponentiation; cross product for geometry.
+- **CSE 322 (2 blocks, if the make-up is granted):** truth-table verification, adder and counter circuits, one small Verilog module, standard viva questions.
+
+---
+
+## 7. Calendar until the routine is out
+
+| Dates | What |
+|---|---|
+| 21 to 28 Oct | **EEE-221 only.** For the 3rd sem, only the department message and collecting past papers. No 3rd-sem content this week. |
+| Thu 29 Oct | EEE-221 exam |
+| Fri 30 Oct | Rest. No study. |
+| 31 Oct to 4 Nov | Start the **first 3rd-sem paper in the routine**. If the routine is still not out, start **MAT 331**: it is the biggest course and it feeds STA 351 (Markov chains) and possibly MAT-235. |
+| From 5 Nov | Exam by exam, using the block budget. Rebuilt the day the routine is published. |
+
+---
+
+## 8. How I can help inside a block
+
+- Send a photo of a past-paper question: I'll solve it step by step and give you a similar one to try yourself.
+- Ask for a one-page cheat sheet for any topic above.
+- Ask for a 5-question quiz on what you did yesterday. Recall is what makes things stick.
+
+---
+
+## 9. Exam-day checklist
+
+- **Night before:** admit card, ID, pens, calculator, water, snack, and cash for a bus or CNG in case you miss the shuttle. Bag at the door.
+- **Wake-up time:** work backwards from the start time using your *worst* recent bathroom time plus the commute.
+- **Eat** before you leave.
+- **Dozing in exams:** ask your psychiatrist before 29 Oct what can be done about daytime sleepiness in exam weeks. Do not change your medicine yourself.
+- **Tea and coffee:** go easy. Fluvoxamine (Voxamin) slows how fast the body clears caffeine by a large amount, so one cup lasts far longer than usual and can wreck that night's sleep.
+- **In the hall:** answer what you know first. Stalled for 5 minutes, move on.
+
+---
+
+## 10. Tracking
+
+Each evening, reply in the thread with one line and it gets logged here:
+
+`date | floor/normal/good | blocks done | sleep hours | longest bathroom time | note`
+
+---
+
+## Still open
+- Can you get **past final questions** for the 3rd-sem courses?
+- (Optional) What topics does **MAT-235** cover? If it overlaps with MAT 331, one study session serves both.
